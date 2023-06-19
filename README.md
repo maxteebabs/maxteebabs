@@ -6,10 +6,14 @@ Senior Software Engineer
 
 I am an experienced software engineer with over 9 years of expertise in developing enterprise solutions using cutting-edge technologies. Skilled and motivated, I am dedicated to delivering high-quality software products that meet and exceed client expectations. With a strong problem-solving mindset and excellent collaboration skills, I thrive in fast-paced environments and have a proven track record of successfully delivering complex projects. Continuously staying updated with industry trends, I am committed to driving technological advancements and contributing to business success. Above all, I am actively involved in open source projects
 
-*   🌍  I'm based in Manchester
-*   ✉️  You can contact me at [famurewa\_taiwo@yahoo.com](mailto:famurewa_taiwo@yahoo.com)
-*   🧠  I'm learning data structures and algorithm
-*   🤝  I'm open to collaborating on blockchain technology, payment exchange services, chatbots, AI, and about anything interesting### Skills 
+* 🌍  I'm based in Manchester
+* ✉️  You can contact me at [famurewa\_taiwo@yahoo.com](mailto:famurewa_taiwo@yahoo.com)
+* 🧠  I'm learning data structures and algorithm
+* 🤝  I'm open to collaborating on blockchain technology, payment exchange services, chatbots, AI, and about anything interesting
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -39,19 +43,16 @@ I am an experienced software engineer with over 9 years of expertise in developi
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/maxteebabs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/famurewataiwo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/famurewa_taiwo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.youtube.com/@remmytee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/maxteebabs"><img src="https://github-readme-stats.vercel.app/api?username=maxteebabs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="maxteebabs's GitHub stats" /></a><a
-                      href="http://www.github.com/maxteebabs"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=maxteebabs&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/maxteebabs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/famurewataiwo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/famurewa_taiwo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@remmytee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/maxteebabs"><img src="https://github-readme-stats.vercel.app/api?username=maxteebabs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="maxteebabs's GitHub stats" /></a>
+
+<a href="http://www.github.com/maxteebabs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maxteebabs&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
